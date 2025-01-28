@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "pong_pre")(type "KiCad")(uri "${KIPRJMOD}/libs/pong_pre.kicad_sym")(options "")(descr ""))
+)
